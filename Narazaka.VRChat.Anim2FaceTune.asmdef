@@ -1,7 +1,9 @@
 {
     "name": "Narazaka.VRChat.Anim2FaceTune",
     "rootNamespace": "",
-    "references": [],
+    "references": [
+        "VRC.SDKBase"
+    ],
     "includePlatforms": [],
     "excludePlatforms": [],
     "allowUnsafeCode": false,
