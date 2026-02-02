@@ -1,6 +1,6 @@
 # Animation to FaceTune Data
 
-desc
+AnimationClipをFaceTune Expression Dataにするヘルパーコンポーネント
 
 ## Install
 
@@ -16,7 +16,7 @@ https://github.com/Narazaka/anim-to-facetune-data/releases/latest から `net.na
 
 ## Usage
 
-TODO
+Anim 2 Face Tune コンポーネントをアバターのどこかに追加して、表情clipをD&Dすると子にFaceTune Expression Dataができる
 
 ## License
 
