@@ -13,6 +13,6 @@
   "unity": "2022.3",
   "vpmDependencies": {
     "com.vrchat.avatars": ">=3.7.5",
-    "aoyon.facetune": "^0.1.0-beta.14"
+    "aoyon.facetune": "^0.1.0-beta.16"
   }
 }
